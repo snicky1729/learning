@@ -1,4 +1,4 @@
 # learning
 This is my first Repository.
 <br>
-Author - Nicky
+Author - Nicky(Amrita University)
